@@ -9,7 +9,6 @@
   6. Technology
   7. Temperature
   8. Voltage
-  9. Capacity
     
 ## Screenshot
 <img src="https://github.com/jignesh8992/Battery-Information/blob/master/app/src/main/assets/screenshot/Screenshot_1.png" width="250"/> <img src="https://github.com/jignesh8992/Battery-Information/blob/master/app/src/main/assets/screenshot/Screenshot_2.png" width="250"/>
