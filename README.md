@@ -4,7 +4,7 @@
   1. Present or No
   2. Health
   3. Level
-  4. Plugged
+  4. Power Source
   5. Charging Status
   6. Technology
   7. Temperature
