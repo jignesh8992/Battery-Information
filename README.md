@@ -17,7 +17,7 @@
 [Download APK from here](https://github.com/jignesh8992/Battery-Information/raw/master/apk/BatteryInformation.apk)
  
 ## Developed By
-  Jignesh N Patel - <a href="mailto:jignesh8992@gmail.com">jignesh8992@gmail.com</a>
+  <a href="https://github.com/jignesh8992">Jignesh N Patel</a> - <a href="mailto:jignesh8992@gmail.com">jignesh8992@gmail.com</a>
   <br>  
   
   <a href="https://twitter.com/jignesh8992" rel="nofollow">
