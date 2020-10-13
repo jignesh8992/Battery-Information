@@ -11,7 +11,7 @@
   8. Voltage
     
 ## Screenshot
-<img src="https://github.com/jignesh8992/VasuCommonCode/blob/master/Screenshots/1.png" width="250"/> <img src="https://github.com/jignesh8992/VasuCommonCode/blob/master/Screenshots/2.png" width="250"/>
+<img src="https://github.com/jignesh8992/Battery-Information/blob/master/screenshot/Screenshot_1.png" width="250"/> <img src="https://github.com/jignesh8992/Battery-Information/blob/master/screenshot/Screenshot_2.png" width="250"/>
  
 ## Demo
 [Download APK from here](https://github.com/jignesh8992/Battery-Information/raw/master/apk/BatteryInformation.apk)
